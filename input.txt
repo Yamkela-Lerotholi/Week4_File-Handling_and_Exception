@@ -1,0 +1,1 @@
+read_and_modify_file('input.txt', 'output.txt')
